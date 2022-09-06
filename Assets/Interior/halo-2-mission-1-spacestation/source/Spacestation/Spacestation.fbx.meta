@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: dd5e8eada2c7541d89e3a203c8a83623
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 92231cf8c8fa7455e987da7b51121459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alder_bark
+    second: {fileID: 2100000, guid: 878903cf51c474605beb9623bc4fbd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alder_leaf
+    second: {fileID: 2100000, guid: 3827a017da4534896b596043e7b6f1d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_hall
+    second: {fileID: 2100000, guid: 524e992f489a340e6be2c990e36f15d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_tile
+    second: {fileID: 2100000, guid: 28a7bd0736ae4449fa1e886c6adcc9f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_hangar_cine_fake
+    second: {fileID: 2100000, guid: e8fa2f25317494f4f8cbf3b6bc641cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_mech_small
+    second: {fileID: 2100000, guid: 8e2554bc17a344238a79607aaba6ee8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doors_large_poop
+    second: {fileID: 2100000, guid: c401db85da45d47cca16b141a708dfee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elevator_shaft_wall_girders
+    second: {fileID: 2100000, guid: a59b02af915124e6cb59305151cd07e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fluorescent_uplight_hall
+    second: {fileID: 2100000, guid: 88f50b96434694244bce09fa71703c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_basic
+    second: {fileID: 2100000, guid: 7642000c6e19b4c75a46ef1089a47e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gunrack_interior
+    second: {fileID: 2100000, guid: 57715ab1f936d445093b9957f2b38f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hangar_cine_crane
+    second: {fileID: 2100000, guid: e87254383438d453b97c1beb4e80a479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inamberclad_aft
+    second: {fileID: 2100000, guid: a7b78d9d63b6446d3abcea33a1f3bdb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inamberclad_details
+    second: {fileID: 2100000, guid: b719fb978f80c42f0a7fee6b357ba2c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inamberclad_fore
+    second: {fileID: 2100000, guid: 25533776946444a9ab7f857a55a092ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mac_round_lod
+    second: {fileID: 2100000, guid: e7e804b5427634577a4e6dc2bec9542e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_bridge_console_base
+    second: {fileID: 2100000, guid: 82e41d09f808544868fff0969fd9f989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_bridge_ramp_wall
+    second: {fileID: 2100000, guid: d7dfa459dafcb4aeaba256410e23cee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_floor_rubber
+    second: {fileID: 2100000, guid: 6d172b3e787b845bfb960872d42034bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hab
+    second: {fileID: 2100000, guid: a07c69b4d8d994c589ffdf4b4d87fcf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_column
+    second: {fileID: 2100000, guid: ae69417e8fb414c05a064891ef38165a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_door_frame
+    second: {fileID: 2100000, guid: ea85433754aa344588f126cd13e67994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_door_frame_airlock
+    second: {fileID: 2100000, guid: ae3890b7e66144386b8292af867e3983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_hab
+    second: {fileID: 2100000, guid: dee8b08ab60cb4f5ab04330e74da1605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_mech
+    second: {fileID: 2100000, guid: 7852c2ab4f0df4c7da65ff8d0d2a58e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_mech_airlock
+    second: {fileID: 2100000, guid: 663853f38e4174a5b99946af70f5a4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_hall_mech_floor
+    second: {fileID: 2100000, guid: 444f183d7eb3543bfb040dd50c4a94f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_back_wall
+    second: {fileID: 2100000, guid: 3ec48d1abc4884145a24a8608bfc7e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_back_wall_atrium
+    second: {fileID: 2100000, guid: 78d428310e24e4bdba43d3d05c943304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_back_wall_gunchamber
+    second: {fileID: 2100000, guid: 6d3c42c30914e4f5eb68d1442d59fd03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_back_wall_warehouse
+    second: {fileID: 2100000, guid: 292a7d20e2f7d4d528f7a8dfa0218567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_bulkhead
+    second: {fileID: 2100000, guid: a88678c1cf7184ae69341db1a23dc192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_bulkhead_b
+    second: {fileID: 2100000, guid: b766a5462b7744cb19178a95e6d9d7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_bulkhead_white
+    second: {fileID: 2100000, guid: 86d6ebdbf7a8f4c60b43688957c135ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_center
+    second: {fileID: 2100000, guid: 1fb63edad5ffb4983b12627eefaa9aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_center_gunchamber
+    second: {fileID: 2100000, guid: 9b8e7b4784a89426684e18af4a62923b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_ele_cargo_roof
+    second: {fileID: 2100000, guid: 1b8453531ba474537be6e2e64748fe79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_ele_cargo_wall
+    second: {fileID: 2100000, guid: 3895785cb0df94f7baa0dac376246a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_ext_horiz
+    second: {fileID: 2100000, guid: 3b7735fe48ee440089ce7f62b0db5ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_ext_window
+    second: {fileID: 2100000, guid: e93af6695c7574077bea7643b84248c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_floor
+    second: {fileID: 2100000, guid: aef4e19613a034ff3b1aff98f9404f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_grate
+    second: {fileID: 2100000, guid: e9aeec60862674b49a3eac73bf2fd220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_gunbarrel
+    second: {fileID: 2100000, guid: 0963b3f9dbcdf4321adc6e5510f0b106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_gunchamber
+    second: {fileID: 2100000, guid: cd9a7734811a3460d83f30ad2891a4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_long
+    second: {fileID: 2100000, guid: ce131b24768a64f29bf5a44d6d0723bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_strips_hazard_stripe
+    second: {fileID: 2100000, guid: 58e6c979652574fa0848b16a89883fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_tile
+    second: {fileID: 2100000, guid: 031116e84dafe41cc9f33fedc0d8c7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_tile_orange
+    second: {fileID: 2100000, guid: 9accb8d82e9934af9b67bd28c4205358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_umbilical
+    second: {fileID: 2100000, guid: 812ba075242054cb1a0d6a19cfdd6696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_mech_warehouse_crane
+    second: {fileID: 2100000, guid: 394fbb6f27bfb41bdb36f32c89e8b647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_org_dirt
+    second: {fileID: 2100000, guid: 34307b389043042cea79dc509506b8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_stair_step
+    second: {fileID: 2100000, guid: 1e0354fcc6e00441ab538c4b19b86707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_stair_stringer
+    second: {fileID: 2100000, guid: 9a092a3984ac24947b1b966fc5b404ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_strips_unpainted
+    second: {fileID: 2100000, guid: 40298fa4a3f9c4586b3e6a600288deb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_tech_rack
+    second: {fileID: 2100000, guid: e66ac27815f6b431bb78326e16a9af0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile_metal_dark
+    second: {fileID: 2100000, guid: 5732e074fc4cc40b591fce9d25326c52, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
